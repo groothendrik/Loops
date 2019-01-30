@@ -1,4 +1,5 @@
 #Carly's clippers
+#Hope I can make it
 
 hairstyles = ["bouffant", "pixie", "dreadlocks", "crew", "bowl", "bob", "mohawk", "flattop"]
 
